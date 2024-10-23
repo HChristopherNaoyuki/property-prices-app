@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Property Prices App is a Java application designed to display property prices across various provinces in South Africa. It allows users to view prices for different property types—Flats, Townhouses, and Houses—and calculates the average property prices for each province, formatted for easy readability.
+The Property Prices App is a Java application designed to display property prices across various provinces in South Africa. It allows users to view prices for different property types — Flats, Townhouses, and Houses—and calculates the average property prices for each province, formatted for easy readability.
 
 ## Features
 
@@ -28,7 +28,7 @@ To run this application, ensure you have the following installed:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/PropertyPricesApp.git
+   git clone https://github.com/HChristopherNaoyuki/property-prices-app.git
    ```
 
 2. Navigate to the project directory:
@@ -67,5 +67,3 @@ Average property prices in Cape:      R 1,340,000
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ---
-
-Feel free to customize sections like the clone URL or licensing based on your specific needs!
